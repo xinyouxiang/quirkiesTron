@@ -1,0 +1,51 @@
+/* @font-face {
+    font-family: Gazpacho;
+    src: url(/fonts/GazpachoRegular.otf);
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: Gazpacho;
+    src: url(/fonts/GazpachoBold.otf);
+    font-weight: 700;
+    font-style: normal
+}
+
+@font-face {
+    font-family: Gazpacho;
+    src: url(/fonts/GazpachoHeavy.otf);
+    font-weight: 800;
+    font-style: normal
+} */
+
+/* @font-face {
+    font-family: Gazpacho;
+    src: url(../../../fonts/GazpachoBlack.otf);
+    font-weight: 900;
+    font-style: normal
+}
+
+@font-face {
+    font-family: Oswald;
+    src: url('../font/TK3iWkUHHAIjg752GT8G.woff2');
+    font-weight: 300;
+    font-style: normal
+} */
+
+/* latin-ext */
+@font-face {
+    font-family: Comfortaa;
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('../font/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMDrMfIA.woff2') format('woff2');
+  }
+  /* latin */
+  @font-face {
+    font-family: ChangaOne;
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('../font/xfu00W3wXn3QLUJXhzq42AHiuQ.woff2') format('woff2');
+  }
